@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\BubleSort\bin\Debug\BubleSort.exe.config
+D:\C#Projects\PreparationForTheInterview\BubleSort\bin\Debug\BubleSort.exe
+D:\C#Projects\PreparationForTheInterview\BubleSort\bin\Debug\BubleSort.pdb
+D:\C#Projects\PreparationForTheInterview\BubleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\BubleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\BubleSort\obj\Debug\BubleSort.exe
+D:\C#Projects\PreparationForTheInterview\BubleSort\obj\Debug\BubleSort.pdb

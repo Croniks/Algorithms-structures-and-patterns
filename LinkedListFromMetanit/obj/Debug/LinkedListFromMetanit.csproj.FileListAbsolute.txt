@@ -1,0 +1,7 @@
+E:\C# projects\PreparationForTheInterview\LinkedListFromMetanit\bin\Debug\LinkedListFromMetanit.exe.config
+E:\C# projects\PreparationForTheInterview\LinkedListFromMetanit\bin\Debug\LinkedListFromMetanit.exe
+E:\C# projects\PreparationForTheInterview\LinkedListFromMetanit\bin\Debug\LinkedListFromMetanit.pdb
+E:\C# projects\PreparationForTheInterview\LinkedListFromMetanit\obj\Debug\LinkedListFromMetanit.csprojAssemblyReference.cache
+E:\C# projects\PreparationForTheInterview\LinkedListFromMetanit\obj\Debug\LinkedListFromMetanit.csproj.CoreCompileInputs.cache
+E:\C# projects\PreparationForTheInterview\LinkedListFromMetanit\obj\Debug\LinkedListFromMetanit.exe
+E:\C# projects\PreparationForTheInterview\LinkedListFromMetanit\obj\Debug\LinkedListFromMetanit.pdb

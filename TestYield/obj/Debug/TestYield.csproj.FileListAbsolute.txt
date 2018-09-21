@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\TestYield\bin\Debug\TestYield.exe.config
+D:\C#Projects\PreparationForTheInterview\TestYield\bin\Debug\TestYield.exe
+D:\C#Projects\PreparationForTheInterview\TestYield\bin\Debug\TestYield.pdb
+D:\C#Projects\PreparationForTheInterview\TestYield\obj\Debug\TestYield.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\TestYield\obj\Debug\TestYield.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TestYield\obj\Debug\TestYield.exe
+D:\C#Projects\PreparationForTheInterview\TestYield\obj\Debug\TestYield.pdb

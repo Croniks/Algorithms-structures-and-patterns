@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\C#Projects\PreparationForTheInterview\BinarySearch\bin\Debug\BinarySearch.exe
+D:\C#Projects\PreparationForTheInterview\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\C#Projects\PreparationForTheInterview\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\BinarySearch\obj\Debug\BinarySearch.exe
+D:\C#Projects\PreparationForTheInterview\BinarySearch\obj\Debug\BinarySearch.pdb

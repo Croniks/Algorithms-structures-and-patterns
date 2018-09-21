@@ -1,0 +1,7 @@
+E:\C# projects\PreparationForTheInterview\StringReverse\bin\Debug\StringReverse.exe.config
+E:\C# projects\PreparationForTheInterview\StringReverse\bin\Debug\StringReverse.exe
+E:\C# projects\PreparationForTheInterview\StringReverse\bin\Debug\StringReverse.pdb
+E:\C# projects\PreparationForTheInterview\StringReverse\obj\Debug\StringReverse.csprojAssemblyReference.cache
+E:\C# projects\PreparationForTheInterview\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+E:\C# projects\PreparationForTheInterview\StringReverse\obj\Debug\StringReverse.exe
+E:\C# projects\PreparationForTheInterview\StringReverse\obj\Debug\StringReverse.pdb

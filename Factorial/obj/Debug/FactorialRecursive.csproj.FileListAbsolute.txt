@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\Factorial\bin\Debug\Factorial.exe.config
+D:\C#Projects\PreparationForTheInterview\Factorial\bin\Debug\Factorial.exe
+D:\C#Projects\PreparationForTheInterview\Factorial\bin\Debug\Factorial.pdb
+D:\C#Projects\PreparationForTheInterview\Factorial\obj\Debug\FactorialRecursive.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Factorial\obj\Debug\Factorial.exe
+D:\C#Projects\PreparationForTheInterview\Factorial\obj\Debug\Factorial.pdb

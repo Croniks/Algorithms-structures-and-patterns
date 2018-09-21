@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\FastSort\bin\Debug\FastSort.exe.config
+D:\C#Projects\PreparationForTheInterview\FastSort\bin\Debug\FastSort.exe
+D:\C#Projects\PreparationForTheInterview\FastSort\bin\Debug\FastSort.pdb
+D:\C#Projects\PreparationForTheInterview\FastSort\obj\Debug\FastSort.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\FastSort\obj\Debug\FastSort.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\FastSort\obj\Debug\FastSort.exe
+D:\C#Projects\PreparationForTheInterview\FastSort\obj\Debug\FastSort.pdb

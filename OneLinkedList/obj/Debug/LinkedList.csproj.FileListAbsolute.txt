@@ -1,0 +1,13 @@
+D:\C#Projects\PreparationForTheInterview\OneLinkedList\bin\Debug\OneLinkedList.exe.config
+D:\C#Projects\PreparationForTheInterview\OneLinkedList\bin\Debug\OneLinkedList.exe
+D:\C#Projects\PreparationForTheInterview\OneLinkedList\bin\Debug\OneLinkedList.pdb
+D:\C#Projects\PreparationForTheInterview\OneLinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\OneLinkedList\obj\Debug\OneLinkedList.exe
+D:\C#Projects\PreparationForTheInterview\OneLinkedList\obj\Debug\OneLinkedList.pdb
+E:\C# projects\PreparationForTheInterview\OneLinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+E:\C# projects\PreparationForTheInterview\OneLinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+E:\C# projects\PreparationForTheInterview\OneLinkedList\obj\Debug\OneLinkedList.exe
+E:\C# projects\PreparationForTheInterview\OneLinkedList\obj\Debug\OneLinkedList.pdb
+E:\C# projects\PreparationForTheInterview\OneLinkedList\bin\Debug\OneLinkedList.exe.config
+E:\C# projects\PreparationForTheInterview\OneLinkedList\bin\Debug\OneLinkedList.exe
+E:\C# projects\PreparationForTheInterview\OneLinkedList\bin\Debug\OneLinkedList.pdb

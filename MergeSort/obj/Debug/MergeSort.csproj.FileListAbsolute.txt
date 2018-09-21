@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PreparationForTheInterview\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\user\source\repos\PreparationForTheInterview\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\user\source\repos\PreparationForTheInterview\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\user\source\repos\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\user\source\repos\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.pdb
+D:\C#Projects\PreparationForTheInterview\MergeSort\bin\Debug\MergeSort.exe.config
+D:\C#Projects\PreparationForTheInterview\MergeSort\bin\Debug\MergeSort.exe
+D:\C#Projects\PreparationForTheInterview\MergeSort\bin\Debug\MergeSort.pdb
+D:\C#Projects\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.exe
+D:\C#Projects\PreparationForTheInterview\MergeSort\obj\Debug\MergeSort.pdb

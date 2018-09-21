@@ -1,0 +1,11 @@
+D:\C#Projects\PreparationForTheInterview\LinearSearch\bin\Debug\LinearSearch.exe.config
+D:\C#Projects\PreparationForTheInterview\LinearSearch\bin\Debug\LinearSearch.exe
+D:\C#Projects\PreparationForTheInterview\LinearSearch\bin\Debug\LinearSearch.pdb
+D:\C#Projects\PreparationForTheInterview\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\LinearSearch\obj\Debug\LinearSearch.exe
+D:\C#Projects\PreparationForTheInterview\LinearSearch\obj\Debug\LinearSearch.pdb
+D:\C#Projects\PreparationForTheInterview\LinearSearch\bin\Debug\FastSort.exe
+D:\C#Projects\PreparationForTheInterview\LinearSearch\bin\Debug\FastSort.pdb
+D:\C#Projects\PreparationForTheInterview\LinearSearch\bin\Debug\FastSort.exe.config
+D:\C#Projects\PreparationForTheInterview\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\LinearSearch\obj\Debug\LinearSearch.csproj.CopyComplete

@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\FactorialIterative\bin\Debug\FactorialIterative.exe.config
+D:\C#Projects\PreparationForTheInterview\FactorialIterative\bin\Debug\FactorialIterative.exe
+D:\C#Projects\PreparationForTheInterview\FactorialIterative\bin\Debug\FactorialIterative.pdb
+D:\C#Projects\PreparationForTheInterview\FactorialIterative\obj\Debug\FactorialIterative.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\FactorialIterative\obj\Debug\FactorialIterative.exe
+D:\C#Projects\PreparationForTheInterview\FactorialIterative\obj\Debug\FactorialIterative.pdb
