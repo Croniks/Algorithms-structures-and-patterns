@@ -8,8 +8,8 @@ namespace FibonacciIterative
     {
         static int FibonacciNumber(int position)
         {
-            int a = 1; int b = 1;
-            while (position > 1)
+            int a = 0; int b = 1;
+            while (position > 0)
             {
                 int temp = a;
                 a = b;
@@ -25,11 +25,11 @@ namespace FibonacciIterative
             int a = 0; int b = 1;
             while(true)
             {
+                yield return a;
+
                 int temp = a;
                 a = b;
                 b = b + temp;
-
-                yield return a;
             }
         }
 
@@ -40,9 +40,15 @@ namespace FibonacciIterative
 
             Console.WriteLine();
 
-            int position = 10;
+            int position1 = 0;
+            int position2 = 1;
+            int position3 = 2;
+            int position4 = 3;
 
-            Console.Write("Элемент на позиции " + position + " в последовательности Фиобначчи равен: " + FibonacciNumber(position));
+            Console.WriteLine("Элемент на позиции " + position1 + " в последовательности Фиобначчи равен: " + FibonacciNumber(position1));
+            Console.WriteLine("Элемент на позиции " + position2 + " в последовательности Фиобначчи равен: " + FibonacciNumber(position2));
+            Console.WriteLine("Элемент на позиции " + position3 + " в последовательности Фиобначчи равен: " + FibonacciNumber(position3));
+            Console.WriteLine("Элемент на позиции " + position4 + " в последовательности Фиобначчи равен: " + FibonacciNumber(position4));
 
             Console.ReadKey();
         }

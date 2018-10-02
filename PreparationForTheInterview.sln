@@ -63,6 +63,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListFromMetanit", "LinkedListFromMetanit\LinkedListFromMetanit.csproj", "{4AED73BF-765B-4C2C-83B5-D5040EA1C6F1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DoublyLinkedList", "DoublyLinkedList", "{AB7DDC45-3853-48DE-A95B-7CBE6DA70588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedList", "DoublyLinkedList\DoublyLinkedList.csproj", "{2192898E-950E-4FE3-AB5B-2D60AB0CD0CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +149,10 @@ Global
 		{4AED73BF-765B-4C2C-83B5-D5040EA1C6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AED73BF-765B-4C2C-83B5-D5040EA1C6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AED73BF-765B-4C2C-83B5-D5040EA1C6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2192898E-950E-4FE3-AB5B-2D60AB0CD0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2192898E-950E-4FE3-AB5B-2D60AB0CD0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2192898E-950E-4FE3-AB5B-2D60AB0CD0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2192898E-950E-4FE3-AB5B-2D60AB0CD0CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +184,8 @@ Global
 		{18859420-5C1B-4B27-B931-E463F951A61E} = {62C8DA06-69EC-406E-81F5-16118957166E}
 		{7442ED9A-D283-429C-92F7-7BEAD1FA68E5} = {7F9C6807-15DB-47A8-A9AA-CE59FCAB37D5}
 		{4AED73BF-765B-4C2C-83B5-D5040EA1C6F1} = {036AEE51-E5BF-42B9-915D-502E479A2789}
+		{AB7DDC45-3853-48DE-A95B-7CBE6DA70588} = {7F9C6807-15DB-47A8-A9AA-CE59FCAB37D5}
+		{2192898E-950E-4FE3-AB5B-2D60AB0CD0CE} = {AB7DDC45-3853-48DE-A95B-7CBE6DA70588}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4711873B-874F-42D7-B59B-B74589C200B9}

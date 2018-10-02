@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+D:\C#Projects\PreparationForTheInterview\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\C#Projects\PreparationForTheInterview\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\C#Projects\PreparationForTheInterview\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\C#Projects\PreparationForTheInterview\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
