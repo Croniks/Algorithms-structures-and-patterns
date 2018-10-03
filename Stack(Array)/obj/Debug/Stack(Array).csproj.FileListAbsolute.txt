@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Stack(Array)\bin\Debug\Stack(Array).exe.config
+D:\C#Projects\PreparationForTheInterview\Stack(Array)\bin\Debug\Stack(Array).exe
+D:\C#Projects\PreparationForTheInterview\Stack(Array)\bin\Debug\Stack(Array).pdb
+D:\C#Projects\PreparationForTheInterview\Stack(Array)\obj\Debug\Stack(Array).csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Stack(Array)\obj\Debug\Stack(Array).csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Stack(Array)\obj\Debug\Stack(Array).exe
+D:\C#Projects\PreparationForTheInterview\Stack(Array)\obj\Debug\Stack(Array).pdb

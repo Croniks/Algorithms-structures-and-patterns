@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Stack(LinkedList)\bin\Debug\Stack(LinkedList).exe.config
+D:\C#Projects\PreparationForTheInterview\Stack(LinkedList)\bin\Debug\Stack(LinkedList).exe
+D:\C#Projects\PreparationForTheInterview\Stack(LinkedList)\bin\Debug\Stack(LinkedList).pdb
+D:\C#Projects\PreparationForTheInterview\Stack(LinkedList)\obj\Debug\Stack(LinkedList).csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Stack(LinkedList)\obj\Debug\Stack(LinkedList).csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Stack(LinkedList)\obj\Debug\Stack(LinkedList).exe
+D:\C#Projects\PreparationForTheInterview\Stack(LinkedList)\obj\Debug\Stack(LinkedList).pdb

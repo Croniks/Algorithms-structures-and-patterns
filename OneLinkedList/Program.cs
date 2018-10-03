@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace LinkedList
 {
-    public class Node<T>
+    class Node<T>
     {
         public T Data { get; set; }
         public Node<T> Next { get; set; }
@@ -13,7 +13,7 @@ namespace LinkedList
         public Node(T data) { Data = data; }
     }
 
-    public class LinkedList<T> : IEnumerable<T>
+    class LinkedList<T> : IEnumerable<T>
     {
         Node<T> first;
         Node<T> last;
@@ -112,7 +112,7 @@ namespace LinkedList
                     return true;
                 current = current.Next;
             }    
-
+            
             return false;
         }
 
