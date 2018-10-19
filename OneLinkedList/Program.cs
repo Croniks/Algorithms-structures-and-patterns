@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-
+using System.Linq;
 
 namespace LinkedList
 {
@@ -162,7 +162,7 @@ namespace LinkedList
             myList.Pop();
             myList.AppendFirst("Ford");
 
-            foreach (string company in myList)
+            foreach (string company in myList.Take(10))
             {
                 Console.WriteLine(company);
             }
