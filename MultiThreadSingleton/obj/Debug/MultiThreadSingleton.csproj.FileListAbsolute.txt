@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\MultiThreadSingleton\bin\Debug\MultiThreadSingleton.exe.config
+D:\C#Projects\PreparationForTheInterview\MultiThreadSingleton\bin\Debug\MultiThreadSingleton.exe
+D:\C#Projects\PreparationForTheInterview\MultiThreadSingleton\bin\Debug\MultiThreadSingleton.pdb
+D:\C#Projects\PreparationForTheInterview\MultiThreadSingleton\obj\Debug\MultiThreadSingleton.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\MultiThreadSingleton\obj\Debug\MultiThreadSingleton.exe
+D:\C#Projects\PreparationForTheInterview\MultiThreadSingleton\obj\Debug\MultiThreadSingleton.pdb
+D:\C#Projects\PreparationForTheInterview\MultiThreadSingleton\obj\Debug\MultiThreadSingleton.csprojResolveAssemblyReference.cache

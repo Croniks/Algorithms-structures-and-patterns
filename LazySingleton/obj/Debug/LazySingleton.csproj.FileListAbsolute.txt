@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\LazySingleton\bin\Debug\LazySingleton.exe.config
+D:\C#Projects\PreparationForTheInterview\LazySingleton\bin\Debug\LazySingleton.exe
+D:\C#Projects\PreparationForTheInterview\LazySingleton\bin\Debug\LazySingleton.pdb
+D:\C#Projects\PreparationForTheInterview\LazySingleton\obj\Debug\LazySingleton.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\LazySingleton\obj\Debug\LazySingleton.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\LazySingleton\obj\Debug\LazySingleton.exe
+D:\C#Projects\PreparationForTheInterview\LazySingleton\obj\Debug\LazySingleton.pdb

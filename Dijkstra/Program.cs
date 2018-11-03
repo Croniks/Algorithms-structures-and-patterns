@@ -74,7 +74,7 @@ namespace Dijkstra
                 int currentVertex = 1;
                 while(quantityUnvisitedVertices > 1)
                 {
-                    for (int i = 0; i < numberVertices; i++)
+                    for (int i = 1; i < numberVertices; i++)
                     {
                         if (matrix[currentVertex, i] > 0)
                         {
@@ -89,17 +89,22 @@ namespace Dijkstra
                     quantityUnvisitedVertices--;
                     
                     int index = 0;
+                    bool flag = false;
+
                     for(int j=1; j < numberVertices; j++)
                     {
                         if (vertices[j] != -1 && shortestWays[j] != 0)
                         {
-                            if( j != 1 )
+                            if(flag)
                             {
                                 if (shortestWays[j] < shortestWays[index])
                                     index = j;
                             }
                             else
-                                index = 1;
+                            { 
+                                index = j;
+                                flag = true;
+                            }
                         }                
                     }
                     
@@ -111,7 +116,7 @@ namespace Dijkstra
             {
                 Dijkstra();
                 PrintResult();
-
+                
                 wayToVertexDestination = new int[numberVertices];
                 wayToVertexDestination[0] = vertex;
 
@@ -140,6 +145,7 @@ namespace Dijkstra
                                 wayToVertexDestination[i] = j + 1;
                                 index = j;
                                 mark = shortestWays[j];
+                                i++;
                             }
                         }
                     }
@@ -162,7 +168,7 @@ namespace Dijkstra
         {
             MatrixOfRelationships matrix = new MatrixOfRelationships();
 
-            matrix.SetRelations(5);
+            matrix.SetRelations(6);
             matrix.CalculatePathToVertex(5);
             
             Console.ReadKey();

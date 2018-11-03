@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\Singleton\bin\Debug\Singleton.exe.config
+D:\C#Projects\PreparationForTheInterview\Singleton\bin\Debug\Singleton.exe
+D:\C#Projects\PreparationForTheInterview\Singleton\bin\Debug\Singleton.pdb
+D:\C#Projects\PreparationForTheInterview\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Singleton\obj\Debug\Singleton.exe
+D:\C#Projects\PreparationForTheInterview\Singleton\obj\Debug\Singleton.pdb

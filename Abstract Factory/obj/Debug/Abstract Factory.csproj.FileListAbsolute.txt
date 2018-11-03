@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+D:\C#Projects\PreparationForTheInterview\Abstract Factory\bin\Debug\Abstract Factory.exe
+D:\C#Projects\PreparationForTheInterview\Abstract Factory\bin\Debug\Abstract Factory.pdb
+D:\C#Projects\PreparationForTheInterview\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Abstract Factory\obj\Debug\Abstract Factory.exe
+D:\C#Projects\PreparationForTheInterview\Abstract Factory\obj\Debug\Abstract Factory.pdb

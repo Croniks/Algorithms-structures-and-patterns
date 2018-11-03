@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Asterisks\bin\Debug\Asterisks.exe.config
+D:\C#Projects\PreparationForTheInterview\Asterisks\bin\Debug\Asterisks.exe
+D:\C#Projects\PreparationForTheInterview\Asterisks\bin\Debug\Asterisks.pdb
+D:\C#Projects\PreparationForTheInterview\Asterisks\obj\Debug\Asterisks.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Asterisks\obj\Debug\Asterisks.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Asterisks\obj\Debug\Asterisks.exe
+D:\C#Projects\PreparationForTheInterview\Asterisks\obj\Debug\Asterisks.pdb

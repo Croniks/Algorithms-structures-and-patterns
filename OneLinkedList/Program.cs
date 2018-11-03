@@ -166,7 +166,7 @@ namespace LinkedList
             {
                 Console.WriteLine(company);
             }
-
+            
             Console.WriteLine(myList.Contains("Reno"));
             Console.WriteLine(myList.Contains("BMW"));
             Console.WriteLine(myList.Count);

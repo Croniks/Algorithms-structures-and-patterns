@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Builder\bin\Debug\Builder.exe.config
+D:\C#Projects\PreparationForTheInterview\Builder\bin\Debug\Builder.exe
+D:\C#Projects\PreparationForTheInterview\Builder\bin\Debug\Builder.pdb
+D:\C#Projects\PreparationForTheInterview\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Builder\obj\Debug\Builder.exe
+D:\C#Projects\PreparationForTheInterview\Builder\obj\Debug\Builder.pdb
