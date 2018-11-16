@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\WithoutIntermediaries\bin\Debug\WithoutIntermediaries.exe.config
+D:\C#Projects\PreparationForTheInterview\WithoutIntermediaries\bin\Debug\WithoutIntermediaries.exe
+D:\C#Projects\PreparationForTheInterview\WithoutIntermediaries\bin\Debug\WithoutIntermediaries.pdb
+D:\C#Projects\PreparationForTheInterview\WithoutIntermediaries\obj\Debug\WithoutIntermediaries.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\WithoutIntermediaries\obj\Debug\WithoutIntermediaries.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\WithoutIntermediaries\obj\Debug\WithoutIntermediaries.exe
+D:\C#Projects\PreparationForTheInterview\WithoutIntermediaries\obj\Debug\WithoutIntermediaries.pdb

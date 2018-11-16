@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\FindRepeatingElement\bin\Debug\FindRepeatingElement.exe.config
+D:\C#Projects\PreparationForTheInterview\FindRepeatingElement\bin\Debug\FindRepeatingElement.exe
+D:\C#Projects\PreparationForTheInterview\FindRepeatingElement\bin\Debug\FindRepeatingElement.pdb
+D:\C#Projects\PreparationForTheInterview\FindRepeatingElement\obj\Debug\FindRepeatingElement.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\FindRepeatingElement\obj\Debug\FindRepeatingElement.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\FindRepeatingElement\obj\Debug\FindRepeatingElement.exe
+D:\C#Projects\PreparationForTheInterview\FindRepeatingElement\obj\Debug\FindRepeatingElement.pdb

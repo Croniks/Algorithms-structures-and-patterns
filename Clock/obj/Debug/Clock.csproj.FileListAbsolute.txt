@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Clock\bin\Debug\Clock.exe.config
+D:\C#Projects\PreparationForTheInterview\Clock\bin\Debug\Clock.exe
+D:\C#Projects\PreparationForTheInterview\Clock\bin\Debug\Clock.pdb
+D:\C#Projects\PreparationForTheInterview\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Clock\obj\Debug\Clock.exe
+D:\C#Projects\PreparationForTheInterview\Clock\obj\Debug\Clock.pdb
+D:\C#Projects\PreparationForTheInterview\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache

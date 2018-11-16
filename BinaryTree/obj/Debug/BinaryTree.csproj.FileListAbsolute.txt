@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\C#Projects\PreparationForTheInterview\BinaryTree\bin\Debug\BinaryTree.exe
+D:\C#Projects\PreparationForTheInterview\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\C#Projects\PreparationForTheInterview\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\BinaryTree\obj\Debug\BinaryTree.exe
+D:\C#Projects\PreparationForTheInterview\BinaryTree\obj\Debug\BinaryTree.pdb

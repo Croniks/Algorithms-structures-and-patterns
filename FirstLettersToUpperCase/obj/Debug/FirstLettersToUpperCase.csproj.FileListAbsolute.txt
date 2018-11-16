@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\FirstLettersToUpperCase\bin\Debug\FirstLettersToUpperCase.exe.config
+D:\C#Projects\PreparationForTheInterview\FirstLettersToUpperCase\bin\Debug\FirstLettersToUpperCase.exe
+D:\C#Projects\PreparationForTheInterview\FirstLettersToUpperCase\bin\Debug\FirstLettersToUpperCase.pdb
+D:\C#Projects\PreparationForTheInterview\FirstLettersToUpperCase\obj\Debug\FirstLettersToUpperCase.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\FirstLettersToUpperCase\obj\Debug\FirstLettersToUpperCase.exe
+D:\C#Projects\PreparationForTheInterview\FirstLettersToUpperCase\obj\Debug\FirstLettersToUpperCase.pdb

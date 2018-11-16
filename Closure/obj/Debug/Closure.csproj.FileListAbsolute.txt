@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\Closure\bin\Debug\Closure.exe.config
+D:\C#Projects\PreparationForTheInterview\Closure\bin\Debug\Closure.exe
+D:\C#Projects\PreparationForTheInterview\Closure\bin\Debug\Closure.pdb
+D:\C#Projects\PreparationForTheInterview\Closure\obj\Debug\Closure.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Closure\obj\Debug\Closure.exe
+D:\C#Projects\PreparationForTheInterview\Closure\obj\Debug\Closure.pdb
