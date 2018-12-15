@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\CovarianceGenericDel\bin\Debug\CovarianceGenericDel.exe.config
+D:\C#Projects\PreparationForTheInterview\CovarianceGenericDel\bin\Debug\CovarianceGenericDel.exe
+D:\C#Projects\PreparationForTheInterview\CovarianceGenericDel\bin\Debug\CovarianceGenericDel.pdb
+D:\C#Projects\PreparationForTheInterview\CovarianceGenericDel\obj\Debug\CovarianceGenericDel.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\CovarianceGenericDel\obj\Debug\CovarianceGenericDel.exe
+D:\C#Projects\PreparationForTheInterview\CovarianceGenericDel\obj\Debug\CovarianceGenericDel.pdb

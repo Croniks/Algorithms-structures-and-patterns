@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\TrainingList\bin\Debug\TrainingList.exe.config
+D:\C#Projects\PreparationForTheInterview\TrainingList\bin\Debug\TrainingList.exe
+D:\C#Projects\PreparationForTheInterview\TrainingList\bin\Debug\TrainingList.pdb
+D:\C#Projects\PreparationForTheInterview\TrainingList\obj\Debug\TrainingList.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\TrainingList\obj\Debug\TrainingList.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TrainingList\obj\Debug\TrainingList.exe
+D:\C#Projects\PreparationForTheInterview\TrainingList\obj\Debug\TrainingList.pdb

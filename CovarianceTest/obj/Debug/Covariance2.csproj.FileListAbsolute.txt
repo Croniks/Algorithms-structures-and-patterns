@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\CovarianceTest\bin\Debug\CovarianceTest.exe.config
+D:\C#Projects\PreparationForTheInterview\CovarianceTest\bin\Debug\CovarianceTest.exe
+D:\C#Projects\PreparationForTheInterview\CovarianceTest\bin\Debug\CovarianceTest.pdb
+D:\C#Projects\PreparationForTheInterview\CovarianceTest\obj\Debug\Covariance2.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\CovarianceTest\obj\Debug\Covariance2.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\CovarianceTest\obj\Debug\CovarianceTest.exe
+D:\C#Projects\PreparationForTheInterview\CovarianceTest\obj\Debug\CovarianceTest.pdb

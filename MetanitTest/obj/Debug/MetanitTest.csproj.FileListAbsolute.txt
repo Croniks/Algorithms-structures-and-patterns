@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\MetanitTest\bin\Debug\MetanitTest.exe.config
+D:\C#Projects\PreparationForTheInterview\MetanitTest\bin\Debug\MetanitTest.exe
+D:\C#Projects\PreparationForTheInterview\MetanitTest\bin\Debug\MetanitTest.pdb
+D:\C#Projects\PreparationForTheInterview\MetanitTest\obj\Debug\MetanitTest.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\MetanitTest\obj\Debug\MetanitTest.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\MetanitTest\obj\Debug\MetanitTest.exe
+D:\C#Projects\PreparationForTheInterview\MetanitTest\obj\Debug\MetanitTest.pdb

@@ -70,7 +70,7 @@ namespace Abstract_Factory
 
             Console.WriteLine(hero2.abillity1.GetDescription());
             Console.WriteLine(hero2.abillity2.GetDescription());
-
+            
             Console.ReadKey();
         }
     }

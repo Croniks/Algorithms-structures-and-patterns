@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\DelegatePredicate\bin\Debug\DelegatePredicate.exe.config
+D:\C#Projects\PreparationForTheInterview\DelegatePredicate\bin\Debug\DelegatePredicate.exe
+D:\C#Projects\PreparationForTheInterview\DelegatePredicate\bin\Debug\DelegatePredicate.pdb
+D:\C#Projects\PreparationForTheInterview\DelegatePredicate\obj\Debug\DelegatePredicate.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\DelegatePredicate\obj\Debug\DelegatePredicate.exe
+D:\C#Projects\PreparationForTheInterview\DelegatePredicate\obj\Debug\DelegatePredicate.pdb

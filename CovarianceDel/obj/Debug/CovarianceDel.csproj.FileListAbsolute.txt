@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\CovarianceDel\bin\Debug\CovarianceDel.exe.config
+D:\C#Projects\PreparationForTheInterview\CovarianceDel\bin\Debug\CovarianceDel.exe
+D:\C#Projects\PreparationForTheInterview\CovarianceDel\bin\Debug\CovarianceDel.pdb
+D:\C#Projects\PreparationForTheInterview\CovarianceDel\obj\Debug\CovarianceDel.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\CovarianceDel\obj\Debug\CovarianceDel.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\CovarianceDel\obj\Debug\CovarianceDel.exe
+D:\C#Projects\PreparationForTheInterview\CovarianceDel\obj\Debug\CovarianceDel.pdb

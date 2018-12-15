@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\LambdaTest\obj\Debug\LambdaTest.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\LambdaTest\bin\Debug\LambdaTest.exe.config
+D:\C#Projects\PreparationForTheInterview\LambdaTest\bin\Debug\LambdaTest.exe
+D:\C#Projects\PreparationForTheInterview\LambdaTest\bin\Debug\LambdaTest.pdb
+D:\C#Projects\PreparationForTheInterview\LambdaTest\obj\Debug\LambdaTest.exe
+D:\C#Projects\PreparationForTheInterview\LambdaTest\obj\Debug\LambdaTest.pdb

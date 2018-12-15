@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\State\bin\Debug\State.exe.config
+D:\C#Projects\PreparationForTheInterview\State\bin\Debug\State.exe
+D:\C#Projects\PreparationForTheInterview\State\bin\Debug\State.pdb
+D:\C#Projects\PreparationForTheInterview\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\State\obj\Debug\State.exe
+D:\C#Projects\PreparationForTheInterview\State\obj\Debug\State.pdb

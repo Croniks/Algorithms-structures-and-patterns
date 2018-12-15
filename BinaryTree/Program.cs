@@ -154,7 +154,43 @@ namespace BinaryTree
                 }
                 else if (node.Left != null && node.Right != null)
                 {
-                    // ищем в правом поддереве саммый левый элемент и ..
+                    Node current = node.Right;
+                    
+                    while(current.Left != null)
+                        current = current.Left;
+
+                    Node insertableNode = (Node)current.Clone();
+
+                    insertableNode.Left = node.Left;
+                    insertableNode.Right = node.Right;
+
+                    // Вставка узла вместо удаляемого
+                    if (node.Parrent != null)
+                    {
+                        if (node.Parrent.Left == node)
+                            node.Parrent.Left = insertableNode;
+                        else
+                            node.Parrent.Right = insertableNode;
+                    }
+                    else
+                        root = insertableNode;
+                    
+                    // Удаление вставляемого узла
+                    if (insertableNode.Left == current)
+                        insertableNode.Left = current.Right;
+                    else if (insertableNode.Right == current)
+                        insertableNode.Right = current.Right;
+                    else if (current.Parrent.Left == current)
+                        current.Parrent.Left = current.Right;
+                    else if(current.Parrent.Right == current)
+                        current.Parrent.Right = current.Right;
+                }
+                else
+                {
+                    if (node.Parrent.Left == node)
+                        node.Parrent.Left = node.Left ?? node.Right;
+                    else
+                        node.Parrent.Right = node.Left ?? node.Right;
                 }
             }
             
@@ -196,6 +232,26 @@ namespace BinaryTree
             Console.WriteLine(node2?.Value);
             Console.WriteLine(node3?.Value);
             Console.WriteLine(node4?.Value);
+
+            Console.WriteLine(new string('=', 30));
+
+            BinaryTree bt2 = new BinaryTree();
+
+            bt2.InsertNumber(6);
+            bt2.InsertNumber(5);
+            bt2.InsertNumber(10);
+            bt2.InsertNumber(8);
+            bt2.InsertNumber(9);
+            bt2.InsertNumber(12);
+            bt2.InsertNumber(11);
+            bt2.InsertNumber(13);
+
+            bt2.PrintTree();
+
+            Console.WriteLine(new string('-', 30));
+
+            bt2.DeleteNodeByNumber(13);
+            bt2.PrintTree();
 
             Console.ReadKey();
         }

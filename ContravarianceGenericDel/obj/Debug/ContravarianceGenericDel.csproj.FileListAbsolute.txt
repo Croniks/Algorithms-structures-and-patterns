@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\ContravarianceGenericDel\bin\Debug\ContravarianceGenericDel.exe.config
+D:\C#Projects\PreparationForTheInterview\ContravarianceGenericDel\bin\Debug\ContravarianceGenericDel.exe
+D:\C#Projects\PreparationForTheInterview\ContravarianceGenericDel\bin\Debug\ContravarianceGenericDel.pdb
+D:\C#Projects\PreparationForTheInterview\ContravarianceGenericDel\obj\Debug\ContravarianceGenericDel.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\ContravarianceGenericDel\obj\Debug\ContravarianceGenericDel.exe
+D:\C#Projects\PreparationForTheInterview\ContravarianceGenericDel\obj\Debug\ContravarianceGenericDel.pdb

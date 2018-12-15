@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\ContravarianceDel\bin\Debug\ContravarianceDel.exe.config
+D:\C#Projects\PreparationForTheInterview\ContravarianceDel\bin\Debug\ContravarianceDel.exe
+D:\C#Projects\PreparationForTheInterview\ContravarianceDel\bin\Debug\ContravarianceDel.pdb
+D:\C#Projects\PreparationForTheInterview\ContravarianceDel\obj\Debug\ContravarianceDel.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\ContravarianceDel\obj\Debug\ContravarianceDel.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\ContravarianceDel\obj\Debug\ContravarianceDel.exe
+D:\C#Projects\PreparationForTheInterview\ContravarianceDel\obj\Debug\ContravarianceDel.pdb

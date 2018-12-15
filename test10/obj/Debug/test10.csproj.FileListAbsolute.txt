@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\test10\bin\Debug\test10.exe.config
+D:\C#Projects\PreparationForTheInterview\test10\bin\Debug\test10.exe
+D:\C#Projects\PreparationForTheInterview\test10\bin\Debug\test10.pdb
+D:\C#Projects\PreparationForTheInterview\test10\obj\Debug\test10.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\test10\obj\Debug\test10.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\test10\obj\Debug\test10.exe
+D:\C#Projects\PreparationForTheInterview\test10\obj\Debug\test10.pdb

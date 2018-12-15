@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\C#Projects\PreparationForTheInterview\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\C#Projects\PreparationForTheInterview\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\C#Projects\PreparationForTheInterview\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\C#Projects\PreparationForTheInterview\TemplateMethod\obj\Debug\TemplateMethod.pdb

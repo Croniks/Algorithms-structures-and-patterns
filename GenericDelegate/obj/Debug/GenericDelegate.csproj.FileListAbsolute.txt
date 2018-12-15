@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+D:\C#Projects\PreparationForTheInterview\GenericDelegate\bin\Debug\GenericDelegate.exe
+D:\C#Projects\PreparationForTheInterview\GenericDelegate\bin\Debug\GenericDelegate.pdb
+D:\C#Projects\PreparationForTheInterview\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\GenericDelegate\obj\Debug\GenericDelegate.exe
+D:\C#Projects\PreparationForTheInterview\GenericDelegate\obj\Debug\GenericDelegate.pdb

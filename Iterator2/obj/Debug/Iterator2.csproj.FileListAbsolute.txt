@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\Iterator2\bin\Debug\Iterator2.exe.config
+D:\C#Projects\PreparationForTheInterview\Iterator2\bin\Debug\Iterator2.exe
+D:\C#Projects\PreparationForTheInterview\Iterator2\bin\Debug\Iterator2.pdb
+D:\C#Projects\PreparationForTheInterview\Iterator2\obj\Debug\Iterator2.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Iterator2\obj\Debug\Iterator2.exe
+D:\C#Projects\PreparationForTheInterview\Iterator2\obj\Debug\Iterator2.pdb

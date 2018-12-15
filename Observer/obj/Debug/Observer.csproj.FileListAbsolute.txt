@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Observer\bin\Debug\Observer.exe.config
+D:\C#Projects\PreparationForTheInterview\Observer\bin\Debug\Observer.exe
+D:\C#Projects\PreparationForTheInterview\Observer\bin\Debug\Observer.pdb
+D:\C#Projects\PreparationForTheInterview\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Observer\obj\Debug\Observer.exe
+D:\C#Projects\PreparationForTheInterview\Observer\obj\Debug\Observer.pdb
