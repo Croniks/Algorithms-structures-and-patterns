@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Closure
+namespace Closure1
 {
     delegate void PrintNumber();
 

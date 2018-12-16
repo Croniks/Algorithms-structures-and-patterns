@@ -13,9 +13,7 @@ namespace TestBit32
             int bit3 = BitVector32.CreateMask(bit2);
             int bit4 = BitVector32.CreateMask(bit3);
             int bit5 = BitVector32.CreateMask(bit4);
-
-            //covariance
-
+            
             Console.WriteLine(bit1);
             Console.WriteLine(bit2);
             Console.WriteLine(bit3);

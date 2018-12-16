@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\TestStructure\bin\Debug\TestStructure.exe.config
+D:\C#Projects\PreparationForTheInterview\TestStructure\bin\Debug\TestStructure.exe
+D:\C#Projects\PreparationForTheInterview\TestStructure\bin\Debug\TestStructure.pdb
+D:\C#Projects\PreparationForTheInterview\TestStructure\obj\Debug\TestStructure.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TestStructure\obj\Debug\TestStructure.exe
+D:\C#Projects\PreparationForTheInterview\TestStructure\obj\Debug\TestStructure.pdb

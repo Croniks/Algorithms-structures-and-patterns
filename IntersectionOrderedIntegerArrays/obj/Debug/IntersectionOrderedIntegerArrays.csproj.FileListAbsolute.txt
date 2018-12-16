@@ -1,0 +1,6 @@
+D:\C#Projects\PreparationForTheInterview\IntersectionOrderedIntegerArrays\bin\Debug\IntersectionOrderedIntegerArrays.exe.config
+D:\C#Projects\PreparationForTheInterview\IntersectionOrderedIntegerArrays\bin\Debug\IntersectionOrderedIntegerArrays.exe
+D:\C#Projects\PreparationForTheInterview\IntersectionOrderedIntegerArrays\bin\Debug\IntersectionOrderedIntegerArrays.pdb
+D:\C#Projects\PreparationForTheInterview\IntersectionOrderedIntegerArrays\obj\Debug\IntersectionOrderedIntegerArrays.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\IntersectionOrderedIntegerArrays\obj\Debug\IntersectionOrderedIntegerArrays.exe
+D:\C#Projects\PreparationForTheInterview\IntersectionOrderedIntegerArrays\obj\Debug\IntersectionOrderedIntegerArrays.pdb

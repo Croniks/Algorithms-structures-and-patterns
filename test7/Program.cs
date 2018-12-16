@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace test7
+namespace Closure
 {
     class Program
     {

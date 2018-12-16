@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\EnumTest\bin\Debug\EnumTest.exe.config
+D:\C#Projects\PreparationForTheInterview\EnumTest\bin\Debug\EnumTest.exe
+D:\C#Projects\PreparationForTheInterview\EnumTest\bin\Debug\EnumTest.pdb
+D:\C#Projects\PreparationForTheInterview\EnumTest\obj\Debug\EnumTest.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\EnumTest\obj\Debug\EnumTest.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\EnumTest\obj\Debug\EnumTest.exe
+D:\C#Projects\PreparationForTheInterview\EnumTest\obj\Debug\EnumTest.pdb

@@ -4,13 +4,20 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace test9
+namespace TestCollections
 {
-    class SomeClass : Dictionary<int, string>
+    class TrimCollection : Dictionary<int, string>
     {
-        public int this[int index]
+        public new string this[int index]
         {
-            get{ return index; }
+            get { return base[index]; }
+            set { value = value.Trim(); base[index] = value; }
+        }
+        
+        public new void Add(int key, string value)
+        {
+            value = value.Trim();
+            base.Add(key, value);
         }
     }
 
@@ -104,7 +111,7 @@ namespace test9
             foreach (int number in col)
                 Console.WriteLine(number);
 
-            Console.WriteLine(new string('=', 20));
+            Console.WriteLine(new string('=', 38));
 
             Hashtable ht = new Hashtable();
             
@@ -115,16 +122,28 @@ namespace test9
             foreach(DictionaryEntry pair in ht)
                 Console.WriteLine($"Ключ : {pair.Key}, значение : {pair.Value};");
 
-            Console.WriteLine(new string('-', 20));
-
+            Console.WriteLine(new string('-', 38));
+            
             Dictionary<object, object> dict = new Dictionary<object, object>();
-
+            
             dict.Add("key1", 5);
             dict.Add(2, "value2");
             dict.Add(true, new int[3] { 1, 2, 3 });
-
+            
             foreach (KeyValuePair<object, object> pair in dict)
                 Console.WriteLine($"Ключ : {pair.Key}, значение : {pair.Value};");
+
+            Console.WriteLine(new string('-', 38));
+
+            TrimCollection trimCollection = new TrimCollection();
+
+            trimCollection.Add(0, "   Hellow");
+            trimCollection.Add(1, "   World   ");
+            trimCollection[2] = "  !   ";
+            
+            Console.WriteLine(trimCollection[0]);
+            Console.WriteLine(trimCollection[1]);
+            Console.WriteLine(trimCollection[2]);
             
             Console.ReadKey();
         }

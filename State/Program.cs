@@ -80,14 +80,16 @@ namespace State
             State.PerformAction(flag);
         }
     }
-
+     
+    struct SomeStruct {  public static int dds ; }
 
     class Program
     {
+        
         static void Main(string[] args)
         {
             Guardian guardian = new Guardian();
-
+            
             guardian.PerformAction();
             guardian.PerformAction();
             guardian.PerformAction(true);
@@ -97,7 +99,7 @@ namespace State
             guardian.PerformAction();
             guardian.PerformAction(true);
             guardian.PerformAction();
-
+            
             Console.ReadKey();
         }
     }

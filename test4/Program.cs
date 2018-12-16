@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace test4
+namespace IntersectionOrderedIntegerArrays
 {
     class Program
     {

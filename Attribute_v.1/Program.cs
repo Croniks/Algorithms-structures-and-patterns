@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
+
 namespace Attribute_v._1
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Interface, AllowMultiple = true, Inherited = true)]
