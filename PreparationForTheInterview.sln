@@ -221,6 +221,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Closure2", "Closure2\Closur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStructure", "TestStructure\TestStructure.csproj", "{F5E020F5-A625-425D-9A9E-D5491A8FF859}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChainResponsibilities", "ChainResponsibilities", "{4C73A870-538B-4334-A485-7CC5E0850B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainResponsibilities", "ChainResponsibilities\ChainResponsibilities.csproj", "{7BF60535-F9F9-46FD-8298-FD3287DCDE47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -471,6 +475,10 @@ Global
 		{F5E020F5-A625-425D-9A9E-D5491A8FF859}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E020F5-A625-425D-9A9E-D5491A8FF859}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E020F5-A625-425D-9A9E-D5491A8FF859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF60535-F9F9-46FD-8298-FD3287DCDE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF60535-F9F9-46FD-8298-FD3287DCDE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF60535-F9F9-46FD-8298-FD3287DCDE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF60535-F9F9-46FD-8298-FD3287DCDE47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -580,6 +588,8 @@ Global
 		{6101E229-387F-4DDA-978E-713B13CD3B6F} = {9B044B9B-A81B-4CAA-BEEC-87F4A00E3723}
 		{2E48651C-F64A-49C1-9087-5CB05A5379D9} = {060699CF-6DE4-43EF-9233-8F38C93508AA}
 		{F5E020F5-A625-425D-9A9E-D5491A8FF859} = {036AEE51-E5BF-42B9-915D-502E479A2789}
+		{4C73A870-538B-4334-A485-7CC5E0850B9D} = {1A9F4F88-F149-4640-B903-7D0177B1D38B}
+		{7BF60535-F9F9-46FD-8298-FD3287DCDE47} = {4C73A870-538B-4334-A485-7CC5E0850B9D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4711873B-874F-42D7-B59B-B74589C200B9}

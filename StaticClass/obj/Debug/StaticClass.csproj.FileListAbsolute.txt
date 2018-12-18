@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\StaticClass\bin\Debug\StaticClass.exe.config
+D:\C#Projects\PreparationForTheInterview\StaticClass\bin\Debug\StaticClass.exe
+D:\C#Projects\PreparationForTheInterview\StaticClass\bin\Debug\StaticClass.pdb
+D:\C#Projects\PreparationForTheInterview\StaticClass\obj\Debug\StaticClass.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\StaticClass\obj\Debug\StaticClass.exe
+D:\C#Projects\PreparationForTheInterview\StaticClass\obj\Debug\StaticClass.pdb
