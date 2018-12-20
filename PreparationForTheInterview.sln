@@ -225,6 +225,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChainResponsibilities", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainResponsibilities", "ChainResponsibilities\ChainResponsibilities.csproj", "{7BF60535-F9F9-46FD-8298-FD3287DCDE47}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interpreter", "Interpreter", "{68B8AACC-190F-4EF7-B6B6-C012045225E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{1C12C5B8-9840-40C4-B4AD-F67781FE915C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -479,6 +483,10 @@ Global
 		{7BF60535-F9F9-46FD-8298-FD3287DCDE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BF60535-F9F9-46FD-8298-FD3287DCDE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BF60535-F9F9-46FD-8298-FD3287DCDE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C12C5B8-9840-40C4-B4AD-F67781FE915C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C12C5B8-9840-40C4-B4AD-F67781FE915C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C12C5B8-9840-40C4-B4AD-F67781FE915C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C12C5B8-9840-40C4-B4AD-F67781FE915C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -590,6 +598,8 @@ Global
 		{F5E020F5-A625-425D-9A9E-D5491A8FF859} = {036AEE51-E5BF-42B9-915D-502E479A2789}
 		{4C73A870-538B-4334-A485-7CC5E0850B9D} = {1A9F4F88-F149-4640-B903-7D0177B1D38B}
 		{7BF60535-F9F9-46FD-8298-FD3287DCDE47} = {4C73A870-538B-4334-A485-7CC5E0850B9D}
+		{68B8AACC-190F-4EF7-B6B6-C012045225E6} = {1A9F4F88-F149-4640-B903-7D0177B1D38B}
+		{1C12C5B8-9840-40C4-B4AD-F67781FE915C} = {68B8AACC-190F-4EF7-B6B6-C012045225E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4711873B-874F-42D7-B59B-B74589C200B9}
