@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Mediator\bin\Debug\Mediator.exe.config
+D:\C#Projects\PreparationForTheInterview\Mediator\bin\Debug\Mediator.exe
+D:\C#Projects\PreparationForTheInterview\Mediator\bin\Debug\Mediator.pdb
+D:\C#Projects\PreparationForTheInterview\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Mediator\obj\Debug\Mediator.exe
+D:\C#Projects\PreparationForTheInterview\Mediator\obj\Debug\Mediator.pdb

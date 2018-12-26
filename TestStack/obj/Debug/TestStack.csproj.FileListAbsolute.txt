@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\TestStack\bin\Debug\TestStack.exe.config
+D:\C#Projects\PreparationForTheInterview\TestStack\bin\Debug\TestStack.exe
+D:\C#Projects\PreparationForTheInterview\TestStack\bin\Debug\TestStack.pdb
+D:\C#Projects\PreparationForTheInterview\TestStack\obj\Debug\TestStack.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\TestStack\obj\Debug\TestStack.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TestStack\obj\Debug\TestStack.exe
+D:\C#Projects\PreparationForTheInterview\TestStack\obj\Debug\TestStack.pdb
