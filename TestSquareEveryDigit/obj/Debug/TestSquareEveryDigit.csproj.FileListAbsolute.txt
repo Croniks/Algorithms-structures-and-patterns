@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\TestSquareEveryDigit\bin\Debug\TestSquareEveryDigit.exe.config
+D:\C#Projects\PreparationForTheInterview\TestSquareEveryDigit\bin\Debug\TestSquareEveryDigit.exe
+D:\C#Projects\PreparationForTheInterview\TestSquareEveryDigit\bin\Debug\TestSquareEveryDigit.pdb
+D:\C#Projects\PreparationForTheInterview\TestSquareEveryDigit\obj\Debug\TestSquareEveryDigit.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\TestSquareEveryDigit\obj\Debug\TestSquareEveryDigit.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TestSquareEveryDigit\obj\Debug\TestSquareEveryDigit.exe
+D:\C#Projects\PreparationForTheInterview\TestSquareEveryDigit\obj\Debug\TestSquareEveryDigit.pdb

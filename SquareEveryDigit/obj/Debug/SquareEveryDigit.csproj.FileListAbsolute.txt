@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\SquareEveryDigit\bin\Debug\SquareEveryDigit.exe.config
+D:\C#Projects\PreparationForTheInterview\SquareEveryDigit\bin\Debug\SquareEveryDigit.exe
+D:\C#Projects\PreparationForTheInterview\SquareEveryDigit\bin\Debug\SquareEveryDigit.pdb
+D:\C#Projects\PreparationForTheInterview\SquareEveryDigit\obj\Debug\SquareEveryDigit.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\SquareEveryDigit\obj\Debug\SquareEveryDigit.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\SquareEveryDigit\obj\Debug\SquareEveryDigit.exe
+D:\C#Projects\PreparationForTheInterview\SquareEveryDigit\obj\Debug\SquareEveryDigit.pdb
