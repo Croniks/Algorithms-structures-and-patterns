@@ -1,7 +1,0 @@
-D:\C#Projects\PreparationForTheInterview\test5\bin\Debug\test5.exe.config
-D:\C#Projects\PreparationForTheInterview\test5\bin\Debug\test5.exe
-D:\C#Projects\PreparationForTheInterview\test5\bin\Debug\test5.pdb
-D:\C#Projects\PreparationForTheInterview\test5\obj\Debug\test5.csprojResolveAssemblyReference.cache
-D:\C#Projects\PreparationForTheInterview\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
-D:\C#Projects\PreparationForTheInterview\test5\obj\Debug\test5.exe
-D:\C#Projects\PreparationForTheInterview\test5\obj\Debug\test5.pdb

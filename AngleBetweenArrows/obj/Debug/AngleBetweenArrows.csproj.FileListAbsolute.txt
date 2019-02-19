@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\AngleBetweenArrows\bin\Debug\AngleBetweenArrows.exe.config
+D:\C#Projects\PreparationForTheInterview\AngleBetweenArrows\bin\Debug\AngleBetweenArrows.exe
+D:\C#Projects\PreparationForTheInterview\AngleBetweenArrows\bin\Debug\AngleBetweenArrows.pdb
+D:\C#Projects\PreparationForTheInterview\AngleBetweenArrows\obj\Debug\AngleBetweenArrows.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\AngleBetweenArrows\obj\Debug\AngleBetweenArrows.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\AngleBetweenArrows\obj\Debug\AngleBetweenArrows.exe
+D:\C#Projects\PreparationForTheInterview\AngleBetweenArrows\obj\Debug\AngleBetweenArrows.pdb

@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Checking\bin\Debug\Checking.exe.config
+D:\C#Projects\PreparationForTheInterview\Checking\bin\Debug\Checking.exe
+D:\C#Projects\PreparationForTheInterview\Checking\bin\Debug\Checking.pdb
+D:\C#Projects\PreparationForTheInterview\Checking\obj\Debug\Checking.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Checking\obj\Debug\Checking.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Checking\obj\Debug\Checking.exe
+D:\C#Projects\PreparationForTheInterview\Checking\obj\Debug\Checking.pdb

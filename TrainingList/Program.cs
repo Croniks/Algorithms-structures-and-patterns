@@ -12,7 +12,7 @@ namespace TestDelegatePredicate
 
             someList.Add("Hellow");
             someList.Add(",");
-            someList.Add(" world");
+            someList.Add(" world");           
             someList.Add("!");
 
             Console.WriteLine(someList.FindIndex(str => str == " world"));

@@ -1,7 +1,0 @@
-D:\C#Projects\PreparationForTheInterview\test3\bin\Debug\test3.exe.config
-D:\C#Projects\PreparationForTheInterview\test3\bin\Debug\test3.exe
-D:\C#Projects\PreparationForTheInterview\test3\bin\Debug\test3.pdb
-D:\C#Projects\PreparationForTheInterview\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
-D:\C#Projects\PreparationForTheInterview\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
-D:\C#Projects\PreparationForTheInterview\test3\obj\Debug\test3.exe
-D:\C#Projects\PreparationForTheInterview\test3\obj\Debug\test3.pdb
