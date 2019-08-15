@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Adapter\bin\Debug\Adapter.exe.config
+D:\C#Projects\PreparationForTheInterview\Adapter\bin\Debug\Adapter.exe
+D:\C#Projects\PreparationForTheInterview\Adapter\bin\Debug\Adapter.pdb
+D:\C#Projects\PreparationForTheInterview\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Adapter\obj\Debug\Adapter.exe
+D:\C#Projects\PreparationForTheInterview\Adapter\obj\Debug\Adapter.pdb

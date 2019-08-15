@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Bridge\bin\Debug\Bridge.exe.config
+D:\C#Projects\PreparationForTheInterview\Bridge\bin\Debug\Bridge.exe
+D:\C#Projects\PreparationForTheInterview\Bridge\bin\Debug\Bridge.pdb
+D:\C#Projects\PreparationForTheInterview\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Bridge\obj\Debug\Bridge.exe
+D:\C#Projects\PreparationForTheInterview\Bridge\obj\Debug\Bridge.pdb

@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Vowels\bin\Debug\Vowels.exe.config
+D:\C#Projects\PreparationForTheInterview\Vowels\bin\Debug\Vowels.exe
+D:\C#Projects\PreparationForTheInterview\Vowels\bin\Debug\Vowels.pdb
+D:\C#Projects\PreparationForTheInterview\Vowels\obj\Debug\Vowels.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Vowels\obj\Debug\Vowels.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Vowels\obj\Debug\Vowels.exe
+D:\C#Projects\PreparationForTheInterview\Vowels\obj\Debug\Vowels.pdb

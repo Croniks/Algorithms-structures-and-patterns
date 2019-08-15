@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\TypeThroughPoint\bin\Debug\TypeThroughPoint.exe.config
+D:\C#Projects\PreparationForTheInterview\TypeThroughPoint\bin\Debug\TypeThroughPoint.exe
+D:\C#Projects\PreparationForTheInterview\TypeThroughPoint\bin\Debug\TypeThroughPoint.pdb
+D:\C#Projects\PreparationForTheInterview\TypeThroughPoint\obj\Debug\TypeThroughPoint.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\TypeThroughPoint\obj\Debug\TypeThroughPoint.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TypeThroughPoint\obj\Debug\TypeThroughPoint.exe
+D:\C#Projects\PreparationForTheInterview\TypeThroughPoint\obj\Debug\TypeThroughPoint.pdb

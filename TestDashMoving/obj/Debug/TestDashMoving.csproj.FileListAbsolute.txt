@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\TestDashMoving\bin\Debug\TestDashMoving.exe.config
+D:\C#Projects\PreparationForTheInterview\TestDashMoving\bin\Debug\TestDashMoving.exe
+D:\C#Projects\PreparationForTheInterview\TestDashMoving\bin\Debug\TestDashMoving.pdb
+D:\C#Projects\PreparationForTheInterview\TestDashMoving\obj\Debug\TestDashMoving.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\TestDashMoving\obj\Debug\TestDashMoving.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\TestDashMoving\obj\Debug\TestDashMoving.exe
+D:\C#Projects\PreparationForTheInterview\TestDashMoving\obj\Debug\TestDashMoving.pdb

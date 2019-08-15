@@ -24,22 +24,21 @@ namespace TestYield
         static void Main(string[] args)
         {
             IEnumerable<int> someCollection = GetOddNumbers();
-
+            
             IEnumerator<int> iteratorOfSomeCollection = someCollection.GetEnumerator();
 
-            Console.WriteLine(iteratorOfSomeCollection.Current);
-            iteratorOfSomeCollection.MoveNext();
-            Console.WriteLine(iteratorOfSomeCollection.Current);
-            iteratorOfSomeCollection.MoveNext();
-            Console.WriteLine(iteratorOfSomeCollection.Current);
-            iteratorOfSomeCollection.MoveNext();
-            Console.WriteLine(iteratorOfSomeCollection.Current);
-            iteratorOfSomeCollection.MoveNext();
+            //Console.WriteLine(iteratorOfSomeCollection.Current);
+            //iteratorOfSomeCollection.MoveNext();
+            //Console.WriteLine(iteratorOfSomeCollection.Current);
+            //iteratorOfSomeCollection.MoveNext();
+            //Console.WriteLine(iteratorOfSomeCollection.Current);
+            //iteratorOfSomeCollection.MoveNext();
+            //Console.WriteLine(iteratorOfSomeCollection.Current);
+            //iteratorOfSomeCollection.MoveNext();
 
-
-            foreach (int n in someCollection)
+            foreach (var n in GetOddNumbers())
                 Console.WriteLine(n);
-
+            
             Console.ReadKey();
         }
     }
