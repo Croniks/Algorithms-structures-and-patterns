@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Decorator\bin\Debug\Decorator.exe.config
+D:\C#Projects\PreparationForTheInterview\Decorator\bin\Debug\Decorator.exe
+D:\C#Projects\PreparationForTheInterview\Decorator\bin\Debug\Decorator.pdb
+D:\C#Projects\PreparationForTheInterview\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Decorator\obj\Debug\Decorator.exe
+D:\C#Projects\PreparationForTheInterview\Decorator\obj\Debug\Decorator.pdb

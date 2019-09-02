@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Facade\bin\Debug\Facade.exe.config
+D:\C#Projects\PreparationForTheInterview\Facade\bin\Debug\Facade.exe
+D:\C#Projects\PreparationForTheInterview\Facade\bin\Debug\Facade.pdb
+D:\C#Projects\PreparationForTheInterview\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Facade\obj\Debug\Facade.exe
+D:\C#Projects\PreparationForTheInterview\Facade\obj\Debug\Facade.pdb

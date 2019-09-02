@@ -30,11 +30,18 @@ namespace FastSort
 
         static void Main(string[] args)
         {
-            int[] someArray = { 8, 4, 2, 7, 3, 1, 5, 9, 6 };
+            int[] someArray1 = { 8, 4, 2, 7, 3, 1, 5, 9, 6 };
+            int[] someArray2 = { 3, 1, 1, 7, 8, 1, 5, 2, 9 };
 
-            FastSort(someArray, 0, someArray.Length - 1);
+            FastSort(someArray1, 0, someArray1.Length - 1);
+            FastSort(someArray2, 0, someArray2.Length - 1);
 
-            foreach (int n in someArray)
+            foreach (int n in someArray1)
+                Console.Write(n + " ");
+
+            Console.Write("\n");
+
+            foreach (int n in someArray2)
                 Console.Write(n + " ");
 
             Console.ReadKey();

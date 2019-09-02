@@ -71,7 +71,7 @@ namespace Adapter
             Peasant peasant = new Peasant();
             PeasantAdapter adapter = new PeasantAdapter(peasant);
             player.SelectedUnitAttack(adapter);
-
+            
             Console.ReadKey();
         }
     }
