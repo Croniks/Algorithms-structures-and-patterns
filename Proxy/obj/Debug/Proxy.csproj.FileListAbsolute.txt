@@ -1,0 +1,12 @@
+D:\C#Projects\PreparationForTheInterview\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Proxy\bin\Debug\Proxy.exe.config
+D:\C#Projects\PreparationForTheInterview\Proxy\bin\Debug\Proxy.exe
+D:\C#Projects\PreparationForTheInterview\Proxy\bin\Debug\Proxy.pdb
+D:\C#Projects\PreparationForTheInterview\Proxy\bin\Debug\EntityFramework.dll
+D:\C#Projects\PreparationForTheInterview\Proxy\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#Projects\PreparationForTheInterview\Proxy\bin\Debug\EntityFramework.xml
+D:\C#Projects\PreparationForTheInterview\Proxy\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#Projects\PreparationForTheInterview\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+D:\C#Projects\PreparationForTheInterview\Proxy\obj\Debug\Proxy.exe
+D:\C#Projects\PreparationForTheInterview\Proxy\obj\Debug\Proxy.pdb

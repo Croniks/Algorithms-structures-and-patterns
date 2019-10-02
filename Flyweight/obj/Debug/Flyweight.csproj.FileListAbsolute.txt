@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Flyweight\bin\Debug\Flyweight.exe.config
+D:\C#Projects\PreparationForTheInterview\Flyweight\bin\Debug\Flyweight.exe
+D:\C#Projects\PreparationForTheInterview\Flyweight\bin\Debug\Flyweight.pdb
+D:\C#Projects\PreparationForTheInterview\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Flyweight\obj\Debug\Flyweight.exe
+D:\C#Projects\PreparationForTheInterview\Flyweight\obj\Debug\Flyweight.pdb

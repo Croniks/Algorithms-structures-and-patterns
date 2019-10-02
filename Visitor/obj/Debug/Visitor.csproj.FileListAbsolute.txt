@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Visitor\bin\Debug\Visitor.exe.config
+D:\C#Projects\PreparationForTheInterview\Visitor\bin\Debug\Visitor.exe
+D:\C#Projects\PreparationForTheInterview\Visitor\bin\Debug\Visitor.pdb
+D:\C#Projects\PreparationForTheInterview\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Visitor\obj\Debug\Visitor.exe
+D:\C#Projects\PreparationForTheInterview\Visitor\obj\Debug\Visitor.pdb

@@ -58,7 +58,7 @@ namespace Iterator
                 Console.WriteLine(str);
 
             Console.WriteLine(new string('-', 30));
-
+            
             foreach (string str in gc)
                 Console.WriteLine(str);
 

@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+D:\C#Projects\PreparationForTheInterview\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+D:\C#Projects\PreparationForTheInterview\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\C#Projects\PreparationForTheInterview\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+D:\C#Projects\PreparationForTheInterview\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

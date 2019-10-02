@@ -1,0 +1,7 @@
+D:\C#Projects\PreparationForTheInterview\Action_Predicate_Func\bin\Debug\Action_Predicate_Func.exe.config
+D:\C#Projects\PreparationForTheInterview\Action_Predicate_Func\bin\Debug\Action_Predicate_Func.exe
+D:\C#Projects\PreparationForTheInterview\Action_Predicate_Func\bin\Debug\Action_Predicate_Func.pdb
+D:\C#Projects\PreparationForTheInterview\Action_Predicate_Func\obj\Debug\Action_Predicate_Func.csprojResolveAssemblyReference.cache
+D:\C#Projects\PreparationForTheInterview\Action_Predicate_Func\obj\Debug\Action_Predicate_Func.csproj.CoreCompileInputs.cache
+D:\C#Projects\PreparationForTheInterview\Action_Predicate_Func\obj\Debug\Action_Predicate_Func.exe
+D:\C#Projects\PreparationForTheInterview\Action_Predicate_Func\obj\Debug\Action_Predicate_Func.pdb

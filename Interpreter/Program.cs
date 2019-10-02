@@ -4,108 +4,137 @@ using System.Collections.Generic;
 
 namespace Interpreter
 {
+    enum VariableType { INT, STRING }
+
+    struct TypeValue
+    {
+        public VariableType Type { get; private set; }
+        public string Value { get; private set; }
+
+        public TypeValue(VariableType type, string value)
+        {
+            Type = type;
+            Value = value;
+        }
+    }
+    
     class Context
     {
-        Dictionary<string, object> variables;
+        Dictionary<string, TypeValue> variables;
         
-        public Context() { variables = new Dictionary<string, object>(); }
+        public Context() { variables = new Dictionary<string, TypeValue>(); }
 
-        public object GetVariable(string name) { return variables[name]; }
-        public void SetVariable(string name, object value) { variables[name] = value; }
+        public TypeValue GetVariable(string name) { return variables[name]; }
+
+        public void SetVariable(string name, TypeValue typeValue)
+        {
+            if(variables.ContainsKey(name))
+                variables[name] = typeValue;
+            else
+                variables.Add(name, typeValue);
+        }
     }
 
     interface IInterpreter
     {
-        object Interpret(Context context);
+        TypeValue Interpret(Context context);
     }
     
-    class Exprassion : IInterpreter
+    class Expression : IInterpreter
     {
         string name;
+        
+        public Expression(string name) { this.name = name; }
 
-        public Exprassion(string name) { this.name = name; }
-
-        public object Interpret(Context context)
+        public TypeValue Interpret(Context context)
         {
             return context.GetVariable(name);
         }
     }
     
-    abstract class BinaryOperationExpration : IInterpreter
+    abstract class BinaryOperationExpression : IInterpreter
     {
-        public Exprassion operand1;
-        public Exprassion operand2;
+        public Expression operand1;
+        public Expression operand2;
 
-        public BinaryOperationExpration(Exprassion operand1, Exprassion operand2)
+        public BinaryOperationExpression(Expression operand1, Expression operand2)
         {
             this.operand1 = operand1;
             this.operand2 = operand2;
         }
 
-        abstract public object Interpret(Context context);
+        abstract public TypeValue Interpret(Context context);
     }
 
-    class AdditionExprassion : BinaryOperationExpration
+    class PlusExpression : BinaryOperationExpression
     {
-        public AdditionExprassion(Exprassion operand1, Exprassion operand2) :
+        public PlusExpression(Expression operand1, Expression operand2) :
             base(operand1, operand2) {}
-
-        public override object Interpret(Context context)
+        
+        public override TypeValue Interpret(Context context)
         {
-            int x, y;
-            Int32.TryParse(operand1.Interpret(context).ToString(), out x);
-            Int32.TryParse(operand2.Interpret(context).ToString(), out y);
-            
-            return x + y;
+            if(operand1.Interpret(context).Type == operand2.Interpret(context).Type)
+            {
+                if(operand1.Interpret(context).Type == VariableType.INT)
+                {
+                    int x, y;
+
+                    Int32.TryParse(operand1.Interpret(context).Value.ToString(), out x);
+                    Int32.TryParse(operand2.Interpret(context).Value.ToString(), out y);
+
+                    return new TypeValue(VariableType.INT, (x + y).ToString());
+                }
+                else if(operand1.Interpret(context).Type == VariableType.STRING)
+                {
+                    string a, b;
+
+                    a = operand1.Interpret(context).Value;
+                    b = operand2.Interpret(context).Value;
+                    
+                    return new TypeValue(VariableType.STRING, (a + b));
+                }
+            }
+            else
+            {
+                Console.WriteLine("Нельзя выполнить операцию '+' с операндами разных типов!");
+            }
+
+            return default(TypeValue);
         }
     }
     
-    class ConcatenationExprassion : BinaryOperationExpration
-    {
-        public ConcatenationExprassion(Exprassion operand1, Exprassion operand2) : 
-            base(operand1, operand2) {}
-
-        public override object Interpret(Context context)
-        { 
-            return operand1.Interpret(context).ToString() + operand2.Interpret(context).ToString();
-        }
-    }
-
-
+    
     class Program
     {
         static void Main(string[] args)
         {
             Context context = new Context();
 
-            context.SetVariable("string1", "Hellow");
-            context.SetVariable("string2", " world!");
-            context.SetVariable("number1", 6);
-            context.SetVariable("number2", 4);
-            context.SetVariable("string3", "4");
+            int x = 3;
+            int y = 2;
 
-            IInterpreter stringConcatenation = new ConcatenationExprassion(
-                    new Exprassion("string1"), new Exprassion("string2"));
+            context.SetVariable("x", new TypeValue(VariableType.INT, x.ToString()));
+            context.SetVariable("y", new TypeValue(VariableType.INT, y.ToString()));
 
-            IInterpreter intAddition = new AdditionExprassion(
-                     new Exprassion("number1"), new Exprassion("number2"));
+            Expression intX = new Expression("x");
+            Expression intY = new Expression("y");
+            PlusExpression plusExpression = new PlusExpression(intX, intY);
+            var result1 = plusExpression.Interpret(context);
 
-            IInterpreter intStringConcatenation = new ConcatenationExprassion(
-                    new Exprassion("number1"), new Exprassion("string2"));
+            string a = "Hellow, ";
+            string b = " world!";
 
-            IInterpreter intStringAddition = new AdditionExprassion(
-                    new Exprassion("number2"), new Exprassion("string3"));
-            
-            object result1 = stringConcatenation.Interpret(context);
-            object result2 = intAddition.Interpret(context);
-            object result3 = intStringConcatenation.Interpret(context);
-            object result4 = intStringAddition.Interpret(context);
-            
-            Console.WriteLine("Результат №1: {0}", result1);
-            Console.WriteLine("Результат №2: {0}", result2);
-            Console.WriteLine("Результат №3: {0}", result3);
-            Console.WriteLine("Результат №4: {0}", result4);
-            
+            context.SetVariable("a", new TypeValue(VariableType.STRING, a));
+            context.SetVariable("b", new TypeValue(VariableType.STRING, b));
+
+            Expression stringA = new Expression("a");
+            Expression stringB = new Expression("b");
+            plusExpression = new PlusExpression(stringA, stringB);
+            var result2 = plusExpression.Interpret(context);
+
+            Console.WriteLine($"Пременная типа \"{result1.Type}\" со значением: {result1.Value}");
+            Console.WriteLine($"Пременная типа \"{result2.Type}\" со значением: {result2.Value}");
+
             Console.ReadKey();
         }
     }

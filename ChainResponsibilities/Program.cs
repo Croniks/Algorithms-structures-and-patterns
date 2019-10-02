@@ -5,36 +5,36 @@ namespace ChainResponsibilities
 {
     abstract class GameEngineFiles
     {
-        public abstract void ShowFiles(string str);
+        public abstract void ShowFiles();
     }
 
     class UnityFiles : GameEngineFiles
     {
-        public override void ShowFiles(string str)
+        public override void ShowFiles()
         {
-            Console.WriteLine($"Файлы юнити открыты в редакторе {str}!" );
+            Console.WriteLine($"Файлы юнити открыты в редакторе Unity!");
         }
     }
 
     class UnrealEngine4Files : GameEngineFiles
     {
-        public override void ShowFiles(string str)
+        public override void ShowFiles()
         {
-            Console.WriteLine($"Файлы анрил энджин открыты в редакторе {str}!");
+            Console.WriteLine($"Файлы анрил энджин открыты в редакторе UnrealEngine!");
         }
     }
 
     class CryEngineVFiles : GameEngineFiles
     {
-        public override void ShowFiles(string str)
+        public override void ShowFiles()
         {
-            Console.WriteLine($"Файлы край энджин открыты в редакторе {str}!");
+            Console.WriteLine($"Файлы край энджин открыты в редакторе CryEngine!");
         }
     }
 
     abstract class GameEngine
     {
-        public GameEngine Engine { get; set; }
+        public GameEngine NextEngine { get; set; }
         
         public abstract void OpenFile(GameEngineFiles gameFiles);
     }
@@ -45,10 +45,10 @@ namespace ChainResponsibilities
         {
             if(gameFiles.GetType().Equals(typeof(UnityFiles)))
             {
-                gameFiles.ShowFiles("Unity3D");
+                gameFiles.ShowFiles();
             }
             else
-                Engine.OpenFile(gameFiles);
+                NextEngine.OpenFile(gameFiles);
         }
     }
     
@@ -58,10 +58,10 @@ namespace ChainResponsibilities
         {
             if (gameFiles.GetType().Equals(typeof(UnrealEngine4Files)))
             {
-                gameFiles.ShowFiles("UnrealEngine4");
+                gameFiles.ShowFiles();
             }
             else
-                Engine.OpenFile(gameFiles);
+                NextEngine.OpenFile(gameFiles);
         }
     }
 
@@ -71,14 +71,14 @@ namespace ChainResponsibilities
         {
             if (gameFiles.GetType().Equals(typeof(CryEngineVFiles)))
             {
-                gameFiles.ShowFiles("CryEngineV");
+                gameFiles.ShowFiles();
             }
             else
-                Engine.OpenFile(gameFiles);
+                NextEngine.OpenFile(gameFiles);
         }
     }
-
-
+    
+    
     class Program
     {
         static void Main(string[] args)
@@ -87,8 +87,8 @@ namespace ChainResponsibilities
             UnrealEngine4 unreal = new UnrealEngine4();
             CryEngineV cry = new CryEngineV();
             
-            unity.Engine = unreal;
-            unreal.Engine = cry;
+            unity.NextEngine = unreal;
+            unreal.NextEngine = cry;
             
             UnityFiles unityFiles = new UnityFiles();
             UnrealEngine4Files unrealFiles = new UnrealEngine4Files();
